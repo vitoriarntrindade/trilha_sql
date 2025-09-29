@@ -174,6 +174,7 @@ O conjunto de dados Northwind inclui dados de amostra para o seguinte:
 
 O banco de dados `Northwind` inclui 14 tabelas e os relacionamentos entre as tabelas são mostrados no seguinte diagrama de relacionamento de entidades.
 
+<img width="834" height="643" alt="image" src="https://github.com/user-attachments/assets/a48f2a31-564a-4ee9-b086-f05e467984e6" />
 
 
 ## Objetivo
